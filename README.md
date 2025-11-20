@@ -3,7 +3,7 @@
 Projet minimal pour un TP DevOps : CRUD (Products) en Spring Boot, tests (TDD/CDD), JaCoCo, CI/CD (GitHub Actions) et Docker.
 
 ## Structure
-- src/main/java : code source
+- src/main/java : code sourceeeeeeeeeeeeeeeeeeeeeee
 - src/test/java : tests unitaires et d'intégration
 - pom.xml : build + JaCoCo
 - Dockerfile
